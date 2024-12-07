@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, 
+th {
+    border: 1px solid black;
+    padding: 5px 10px;
+    }
+
+    .table-1 tr:nth-child(odd) {
+        background: aquamarine;
+    }
+
